@@ -47,8 +47,8 @@ plt.show()
 ## RegisterNumber:  212224230305
 
 ## Output:
-<img width="997" height="635" alt="image" src="https://github.com/user-attachments/assets/5c9a4e1b-d677-4663-80a6-1936dd5783b6" />
 
+<img width="781" height="800" alt="image" src="https://github.com/user-attachments/assets/baea316c-fbb1-4f61-afe7-7a9b2dabebcf" />
 
 
 ## Result:
